@@ -1,5 +1,5 @@
 <html>
 <body>
-	<h2>Hello World! owi ça marche !</h2>
+	<h2>${title}</h2>
 </body>
 </html>
