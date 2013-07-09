@@ -10,8 +10,7 @@ public class IndexController {
 	@RequestMapping({ "/", "/index.html" })
 	public String index(Model model) {
 		model.addAttribute("Title", "OP AIRSOFT");
-		String nulle = null;
-		nulle.equals("");
+		
 		return "index";
 	}
 }
